@@ -10,25 +10,25 @@ now_month = 3
 now_year = 2025
 
 month_book ={
-    r"D:\Python\VK_post\month\Грамотность" : datetime.datetime(now_year, now_month, 3, 12, 30, 0),
-    r"D:\Python\VK_post\month\Приведи друга" : datetime.datetime(now_year, now_month, 4, 12, 30, 0),
-    r"D:\Python\VK_post\month\Советы" : datetime.datetime(now_year, now_month, 5, 12, 30, 0),
-    r"D:\Python\VK_post\month\Книги" : datetime.datetime(now_year, now_month, 6, 12, 30, 0),
-    r"D:\Python\VK_post\month\Фильмы" : datetime.datetime(now_year, now_month, 7, 12, 30, 0),
-    r"D:\Python\VK_post\month\Рецепты" : datetime.datetime(now_year, now_month, 8, 12, 30, 0),
-    r"D:\Python\VK_post\month\Цитаты" : datetime.datetime(now_year, now_month, 9, 12, 30, 0)
+    r".\month\Грамотность" : datetime.datetime(now_year, now_month, 3, 12, 30, 0),
+    r".\month\Приведи друга" : datetime.datetime(now_year, now_month, 4, 12, 30, 0),
+    r".\month\Советы" : datetime.datetime(now_year, now_month, 5, 12, 30, 0),
+    r".\month\Книги" : datetime.datetime(now_year, now_month, 6, 12, 30, 0),
+    r".\month\Фильмы" : datetime.datetime(now_year, now_month, 7, 12, 30, 0),
+    r".\month\Рецепты" : datetime.datetime(now_year, now_month, 8, 12, 30, 0),
+    r".\month\Цитаты" : datetime.datetime(now_year, now_month, 9, 12, 30, 0)
 }
 
 hashtag = {
-    r"D:\Python\VK_post\month\Грамотность" : '#говоримправильно',
-    r"D:\Python\VK_post\month\Советы" : ' ',
-    r"D:\Python\VK_post\month\Приведи друга" : ' ',
-    r"D:\Python\VK_post\month\Книги" : '#книжныйсомелье',
-    r"D:\Python\VK_post\month\Фильмы" : '#помощьзала',
-    r"D:\Python\VK_post\month\Рецепты" : '#рецепты',
-    r"D:\Python\VK_post\month\Цитаты" : '#легендарныецитаты',
-    #r"D:\Python\VK_post\month\Мошенники" : '#мошенники',
-    r"D:\Python\VK_post\month\ДР" : '🎁'
+    r".\month\Грамотность" : '#говоримправильно',
+    r".\month\Советы" : ' ',
+    r".\month\Приведи друга" : ' ',
+    r".\month\Книги" : '#книжныйсомелье',
+    r".\month\Фильмы" : '#помощьзала',
+    r".\month\Рецепты" : '#рецепты',
+    r".\month\Цитаты" : '#легендарныецитаты',
+    #r".\month\Мошенники" : '#мошенники',
+    r".\month\ДР" : '🎁'
 
 }
 
