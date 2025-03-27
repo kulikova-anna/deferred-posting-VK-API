@@ -6,7 +6,6 @@ from vk_api.exceptions import ApiError
 
 import time
 
-import key
 import function
 import postdate
 import contentplan
