@@ -32,4 +32,4 @@ hashtag = {
 
 }
 
-directory_birthday = r"D:\Python\VK_post\month\ДР"
+directory_birthday = r".\month\ДР"
